@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/question_her/static/css/main.d0dd7d07.css",
+    "main.js": "/question_her/static/js/main.31f43400.js",
+    "static/js/787.2ed30da1.chunk.js": "/question_her/static/js/787.2ed30da1.chunk.js",
+    "static/media/la6.jpg": "/question_her/static/media/la6.455200b041ef1355f997.jpg",
+    "static/media/me5.jpg": "/question_her/static/media/me5.5ae3e01dce9366309398.jpg",
+    "static/media/la4.jpg": "/question_her/static/media/la4.0e466d41c39086be6ceb.jpg",
+    "static/media/me4.jpg": "/question_her/static/media/me4.1727c27b6186d7c69245.jpg",
+    "static/media/la5.jpg": "/question_her/static/media/la5.26b8b3761ace2c10c3be.jpg",
+    "static/media/Me6.jpg": "/question_her/static/media/Me6.e8edc03b78f8461490fa.jpg",
+    "static/media/la3.jpg": "/question_her/static/media/la3.1523e96ee1323c479fb4.jpg",
+    "static/media/us5.jpg": "/question_her/static/media/us5.e544421a03815b7dc1ef.jpg",
+    "static/media/la2.jpg": "/question_her/static/media/la2.09d54ea2e0f0907e6fb7.jpg",
+    "static/media/us7.jpg": "/question_her/static/media/us7.b2a581ed51ac4bd57d7b.jpg",
+    "static/media/us6.jpg": "/question_her/static/media/us6.38dfc773fe479f546865.jpg",
+    "static/media/us4.jpg": "/question_her/static/media/us4.21a96b906a45ad2513a2.jpg",
+    "static/media/us3.jpg": "/question_her/static/media/us3.38b972af3dd4317dfd6a.jpg",
+    "static/media/la1.jpg": "/question_her/static/media/la1.cc57e30180641bd074e5.jpg",
+    "static/media/me2.jpg": "/question_her/static/media/me2.9b11de142a2c901f71b4.jpg",
+    "static/media/me1.jpg": "/question_her/static/media/me1.0b19bd022fd10c505acf.jpg",
+    "static/media/me3.jpg": "/question_her/static/media/me3.62eef3b4aa9b72c1b721.jpg",
+    "static/media/us2.jpg": "/question_her/static/media/us2.c0976c40973b3ebc914a.jpg",
+    "index.html": "/question_her/index.html",
+    "main.d0dd7d07.css.map": "/question_her/static/css/main.d0dd7d07.css.map",
+    "main.31f43400.js.map": "/question_her/static/js/main.31f43400.js.map",
+    "787.2ed30da1.chunk.js.map": "/question_her/static/js/787.2ed30da1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0dd7d07.css",
+    "static/js/main.31f43400.js"
+  ]
+}
