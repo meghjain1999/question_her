@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+  }
+
+  #question {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  #teddy {
+    width: 200px;
+    height: auto;
+    transition: transform 0.5s ease-in-out;
+  }
+
+  #buttons {
+    margin-top: 20px;
+  }
+
+  .btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 0 10px;
+    background-color: black;
+    color: white;
+    position: absolute;
+  }
+  .btnNew {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    margin: 0 10px;
+  }
+  #no:hover {
+    color: red;
+  }
+
+  #danceVideo {
+    display: none;
+  }
